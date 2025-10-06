@@ -4,6 +4,7 @@
 
 目前仓库包含
 - week1-3 [混元video模型](https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V)代码的学习笔记
+- week4 [ConsisID](https://arxiv.org/abs/2411.17440)论文的学习笔记
 - 持续更新中...
 
 ---
